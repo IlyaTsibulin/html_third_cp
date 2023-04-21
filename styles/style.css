@@ -1,0 +1,39 @@
+.main {
+  background-color: #94cfd5;
+  height: calc(100vh);
+}
+
+.main-wrap__title {
+  font-size: 58px;
+  color: #0f5b61;
+  letter-spacing: 8px;
+}
+
+* {
+  padding: 0;
+  margin: 0;
+  box-sizing: border-box;
+  font-family: sans-serif;
+}
+
+.card {
+  background-color: grey;
+  width: 290px;
+  height: 200px;
+  display: inline-block;
+  border-radius: 20px;
+  padding: 10px;
+  margin: 30px;
+}
+
+.card-img {
+  width: 290px;
+  height: 200px;
+  border-radius: 20px;
+}
+
+.card-title{
+  font-size:large;
+  font-weight: bolder;
+  color: #13737a
+}
